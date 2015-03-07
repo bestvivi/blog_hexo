@@ -88,3 +88,7 @@ deploy:
   type: github
   repository: https://github.com/yoiyang/yoiyang.github.io.git
   branch: master 
+
+backup:
+  type: git
+  repository: git@github.com:yoiyang/yoiyang.github.io.git,master
