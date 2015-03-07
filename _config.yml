@@ -91,4 +91,5 @@ deploy:
 
 backup:
   type: git
-  repository: https://github.com/yoiyang/yoiyang.github.io.git,backup
+  repository: 
+    github: https://github.com/yoiyang/yoiyang.github.io.git,backup
