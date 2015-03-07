@@ -92,4 +92,4 @@ deploy:
 backup:
   type: git
   repository: 
-    github: https://github.com/yoiyang/yoiyang.github.io.git,backup
+    github: https://github.com/yoiyang/blog_hexo.git,master
